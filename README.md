@@ -1,1 +1,1 @@
-My first readme
+Enjoying the Coding journey
